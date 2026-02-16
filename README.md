@@ -1,3 +1,7 @@
+# Description
+
+This is my portfolio website, you'll find there every projects that I did. It merges the Github and Gitlab repos that I have. You can send a message to me by using the contact form.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
